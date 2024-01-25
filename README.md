@@ -1,1 +1,3 @@
-# Lab03_TranHuyTuan_AI1903
+Họ và tên: Trần Huy Tuấn \
+Mã số sinh viên: HE190554 \
+Lớp: AI1903 
